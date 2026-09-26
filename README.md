@@ -1,14 +1,12 @@
-# Personal Task Manager
-
 ## Project Information
 
-Project Code: WST21-PM-2026-SF
+ WST21-PM-2026-SF
 
 Student Name: Jan Kendrick Amay
 
 Course & Year: BSIT - 1st Year
 
-Database Used: MySQL
+Database Used: SqlLite
 
 ## Features
 
@@ -19,17 +17,3 @@ Database Used: MySQL
 - Update Status
 - Set Due Date
 
-## Description
-
-Personal Task Manager is a simple Laravel web application for managing personal tasks.
-
-Users can add, view, edit, and delete tasks. Each task can also have a status and due date.
-
-## Technologies Used
-
-- Laravel
-- PHP
-- MySQL
-- Blade
-- HTML
-- CSS
