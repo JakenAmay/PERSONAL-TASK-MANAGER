@@ -6,7 +6,7 @@ Student Name: Jan Kendrick Amay
 
 Course & Year: BSIT - 1st Year
 
-Database Used: SqlLite
+Database Used: MySql
 
 ## Features
 
